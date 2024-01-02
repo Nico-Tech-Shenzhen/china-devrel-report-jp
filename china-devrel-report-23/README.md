@@ -21,26 +21,19 @@ Concurrently, there's a noticeable rise in companies that position developers as
 This research is designed to offer clarity and direction for practitioners, aiding them in setting precise work objectives and achieving professional growth. It also serves as a valuable guide for business leaders to navigate the evolving landscape of developer-centric business development. Ultimately, our goal is to motivate more companies to actively engage in building a developer ecosystem, fostering high-quality business growth through a robust and sustainable community.
 
 ## Contents
-### [第一部分 引言](Part1/README.md)
+### [第一部分 Introduction](Part1/README.md)
 
-### [第二部分 定义开发者关系](Part2/README.md)　#章titleはあとで訳す
-1. 开发者关系综述
+### [その II. 開発者の関係を定義する](Part2/README.md)　#章titleはあとで訳す
+1. デベロッパー・リレーションズの概要
 
-2. 不同类型组织构建开发者关系的背景和目的
-	1. 云服务、开发者工具、基础软件提供商： 开发者是用户和客户
-	2. 开源软件提供商： 开发者是贡献者、用户和潜在客户
-	3. Open Ecosystems Platform: 开发者是生态构建者
-	4. 泛科技公司：开发者是潜在雇员
+2. 開発者との関係を構築するさまざまなタイプの組織の背景と目的
 
-3. 开发者关系及相关名词概念
-	1. 开发者关系 （DevRel） 与开发者体验 （Developer Experience, DX）
-	2. 开发者关系 （DevRel） 与开发者社区 （Developer Community）
-	3. 开发者关系 （DevRel） 与开发者生态 （Developer Ecosystem）
+3. 開発者関係と関連用語の概念
 
-### [第三部分 开发者关系常设岗位说明书及从业人员能力模型](Part3/README.md)
-1. 开发者布道师 （及技术内容方向）
-2. 开发者社区经理 （及开发者运营方向）
-3. 开发者市场经理
+### [第三部分 デベロッパー・リレーションズの正社員の職務記述書と実務家のコンピテンシー・モデル](Part3/README.md)
+1. 開発者エバンジェリスト(およびテクニカルコンテンツオリエンテーション)
+2. 開発者コミュニティ・マネージャー（および開発者オペレーション・オリエンテーション）
+3. 開発者マーケティングマネージャー
 
 ### [第四部分 中国开发者关系从业者现状](Part4/README.md)
 1. 简介
