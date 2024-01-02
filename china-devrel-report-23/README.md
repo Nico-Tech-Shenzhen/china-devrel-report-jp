@@ -20,6 +20,21 @@ Concurrently, there's a noticeable rise in companies that position developers as
 
 This research is designed to offer clarity and direction for practitioners, aiding them in setting precise work objectives and achieving professional growth. It also serves as a valuable guide for business leaders to navigate the evolving landscape of developer-centric business development. Ultimately, our goal is to motivate more companies to actively engage in building a developer ecosystem, fostering high-quality business growth through a robust and sustainable community.
 
+## 日本語版について
+
+「China DevRel Report 2023」は中国の技術サイトSegmentFault(米StackOverFlowのようなもの）上で、2023年次の中国における開発者コミュニケーション、DevRelについてまとめたものです。彼ら中国人エンジニアのDevRelの定義、何を重視し、何を成果としているか、代表的なハッカソンやDevRelプログラムの成功例が挙げられています。
+ここから現代中国では（少なくともイケてる企業は）「エンジニアが中心になって組織を作り、エンジニアとのコミュニケーションをうまくやり、エンジニアの力を最大化することが、企業の力を最大化する」ことが成功への道と考えていることが伺えます。
+自分もそう思います。世の中がますますそうなれば良いと思います。  高須正和@Nico-Tech Shenzen
+
+中国技术网站 SegmentFault（类似于美国的 StackOverFlow）发布了《2023 年中国 DevRel 报告》，总结了 2023 年中国开发者交流和 DevRel 的情况。 报告列出了中国工程师对 DevRel 的定义、他们关注的重点和他们认为的成果，以及典型黑客马拉松和 DevRel 计划的成功之处。
+由此可见，现代中国（至少是很酷的公司）认为，"建立一个由工程师领导的组织，与工程师进行良好的沟通，最大限度地发挥工程师的力量，是最大限度地发挥公司力量的途径 "是成功之道。
+我自己也这么认为。 我希望世界越来越像这样。 高須正和@Nico-Tech Shenzen
+
+The China DevRel Report 2023 is a summary of developer communication and DevRel in China in 2023 on the Chinese technology website SegmentFault (like StackOverFlow in the US). It lists their Chinese engineers' definition of DevRel, what they focus on and what they see as outcomes, and the successes of typical hackathons and DevRel programmes.
+From this, it can be seen that modern China (or at least cool companies) believe that "building an organisation led by engineers, communicating well with engineers and maximising the power of engineers is the way to maximise the power of the company" is the way to success.
+I think so myself. I hope the world becomes more and more like that.  TAKASU Masakazu@Nico-Tech Shenzhen
+
+
 ## Contents
 ### [第一部分 Introduction](Part1/README.md)
 
