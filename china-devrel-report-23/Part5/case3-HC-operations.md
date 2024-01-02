@@ -24,7 +24,7 @@
 * ヘッドパートナー開発者向けルパン・セッション
   * Huawei Cloud Lupin Clubは、Huawei Cloudのハイエンド開発者コミュニティであり、コアパートナー開発者の技術交流、共同イノベーション、エコロジカルな開発者サークルの構築を目的としている。 HuaweiクラウドのSaaSパートナーやISVパートナーのCTO、アーキテクト、テクニカルディレクター、CEOなど、技術的なバックグラウンドを持つ人が応募できる。 当社の代表的なプログラムであるコア・パートナー・デベロッパー・ブートキャンプは、価値の高いパートナー開発者のためのブティック型トレーニング・プログラムである。 業界の優秀なメンターを招き、質問に答えたり、現在のソフトウェア業界の問題に対する解決策を議論したりする。
 
-![HDC成都] (.../attachments/hdc_cloud_day_01.jpg)
+![HDC成都] (https://github.com/segmentfault/china-devrel-report/raw/main/china-devrel-report-23/attachments/hdc_cloud_day_01.jpg)
 
 
 
@@ -42,7 +42,7 @@ Huawei Cloudの開発者サークル運営の目標は、各サークルの運�
 
 Huawei Cloudの開発者サークル運営の目標は、各サークルの運営を通じてオープンな能力と開発ツールで開発者に力を与え、開発者のイノベーションを可能にすることである。
 
-![Huawei Cloud開発者サークル運営戦略] (.../attachments/hdc_cloud_day_02.jpg)
+![Huawei Cloud開発者サークル運営戦略](https://github.com/segmentfault/china-devrel-report/raw/main/china-devrel-report-23/attachments/hdc_cloud_day_02.jpg)
 
 ### トップレベルの戦略：3段階戦略
 
